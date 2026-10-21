@@ -1,0 +1,14 @@
+{
+  "version": "4.1.2",
+  "minimumVersion": "4.1.1",
+  "downloadUrl": "https://github.com/khunrothanak12-design/N.tool-update/releases/download/v4.1.2/update-4.1.2.zip",
+  "localTestUrl": "E:\\Nak\\K'RNសម្រាយរឿង\\dist\\update-4.1.2.zip",
+  "checksum": "sha256:f0637cbc6c2bedaf5d4a6f982eef0bd82c4ea066f7979f43a5df0bdd1b33b69b",
+  "releaseDate": "2026-10-21",
+  "mandatory": false,
+  "channel": "stable",
+  "releaseNotes": [
+    "កែលម្អប្រព័ន្ធបកប្រែឱ្យស៊ីចង្វាក់សាច់រឿង",
+    "សំឡេងច្បាស់ និងខ្លាំងល្អជាងមុន"
+  ]
+}
